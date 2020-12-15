@@ -1,6 +1,6 @@
 # study
-<ul>
-  <ol>GC란? Heap Memory란?</ol>
+<ol>
+  <li>GC란? Heap Memory란?</li>
 -GC
   Heap 메모리를 재활용 하기 위해 Root Set에서 참조 되지 않는 Object들을 해제해 가용한 공간을 만드는 작업을 의미 하며, 
   이런 메모리 해제 작업을 Garbage Collector가 담당하며,
@@ -64,4 +64,4 @@ Framework란 '어떤 것을 구성하는 구조 또는 뼈대' 사전적 의미�
 #은 ?의 값이 달라져도 같은 쿼리로 인식하여 컴파일 된 내용을 재사용 할 수 있으나, $는 재사용을 하지 않으며 새로운 쿼리로 인식
 #을 사용할 때 ' '이 자동 생성되어 SQL Injection 대비가 가능하지만, $ 방식은 String자체를 변환하기에 SQL Injection에 취약
 
-</ul>
+</ol>
